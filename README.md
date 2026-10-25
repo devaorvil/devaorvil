@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP and JavaScript**
 
-- 🤝 I’m looking for help with **Professional Web Designer & Developer | WordPress Expert | Building Modern, Responsive & High-Converting Websites for Businesses and Creators.**
+- 🤝 I’m looking for help with **WordPress, web design, and website development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devaorvil](https://github.com/devaorvil)
 
