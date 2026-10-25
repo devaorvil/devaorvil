@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rightaorvil" target="blank"><img src="https://img.shields.io/twitter/follow/rightaorvil?logo=twitter&style=for-the-badge" alt="rightaorvil" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working on **Freelancer.**
 
-- 🌱 I’m currently learning **PHP and JavaScript**
+- 🌱 I’m currently learning **PHP and JavaScript.**
 
-- 🤝 I’m looking for help with **WordPress, web design, and website development projects**
+- 🤝 I’m looking for help with **WordPress, web design, and website development projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devaorvil](https://github.com/devaorvil)
 
