@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **PHP,JS**
+- 🌱 I’m currently learning **PHP and JavaScript**
 
 - 🤝 I’m looking for help with **Professional Web Designer & Developer | WordPress Expert | Building Modern, Responsive & High-Converting Websites for Businesses and Creators.**
 
