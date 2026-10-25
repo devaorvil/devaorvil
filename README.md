@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devaorvil](https://github.com/devaorvil)
 
-- 💬 Ask me about **WordPress websites, responsive web design, website development, and e-commerce solutions.**
+- 💬 Ask me about **Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.**
 
 - 📫 How to reach me **aorvil.dev@gmail.com**
 
