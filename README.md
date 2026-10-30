@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aorvil.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d9_uNxzJKfHW7N0ouos8MwH0Uomh2lFp/view?usp=sharing](https://drive.google.com/file/d/1d9_uNxzJKfHW7N0ouos8MwH0Uomh2lFp/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1qW8q_GX2EIcPzQqjhXsFD2mYAXXZk9t1/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
