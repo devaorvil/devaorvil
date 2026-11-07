@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/aorvilr" target="_blank">LinkedIn</a> •
-  <a href="[https://fb.com/aorvil](https://www.facebook.com/profile.php?id=61595947066003)" target="_blank">Facebook</a> •
+  <a href="[https://www.facebook.com/profile.php?id=61595947066003" target="_blank">Facebook</a> •
   <a href="https://www.youtube.com/@aorvilr" target="_blank">YouTube</a> •
   <a href="https://github.com/devaorvil" target="_blank">GitHub</a>
 </p>
